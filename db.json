@@ -4,49 +4,58 @@
                 "id": 2,
                 "name": "Edike Uche",
                 "imgUrl": "https://imgur.com/LHlVJmW.png",
-                "email": "ucesty5@gmail.com"
+                "email": "ucesty5@gmail.com",
+                "rank": "Fullstack Developer"
+               
             },
             {
                 "id": 2,
                 "name": "Green Oluwakemi",
                 "imgUrl": "https://imgur.com/RHbbbsw.png",
-                "email": "greenreina01@gmail.com"
+                "email": "greenreina01@gmail.com",
+                "rank": "Fullstack Developer"
             },
             {
                 "id": 2,
                 "name": "Ayomide Olaniran",
                 "imgUrl": "https://imgur.com/9uaWwcU.png",
-                "email": "ayomideolaniran@gmail.com"
+                "email": "ayomideolaniran@gmail.com",
+                "rank": "Frontend Developer"
             },
             {
                 "id": 2,
                 "name": "Obikwelu Irene",
                 "imgUrl": "https://imgur.com/7aFegrr.png",
-                "email": "ireneobikwelu@gmail.com"
+                "email": "ireneobikwelu@gmail.com",
+                "rank": "Frontend Developer"
             },
             {
                 "id": 2,
                 "name": "Mercy Kalu",
                 "imgUrl": "https://imgur.com/FTXk6gA.png",
-                "email": "belrahj3@gmail.com"
+                "email": "belrahj3@gmail.com",
+                "rank": "Backend Developer"
             },
             {
                 "id": 2,
                 "name": "Tolulope Ambali",
                 "imgUrl": "https://imgur.com/khbIGH2.png",
-                "email": "ambalitolulope@gmail.com"
+                "email": "ambalitolulope@gmail.com",
+                "rank": "Content Writer/Fullstack Developer"
             },
             {
                 "id": 2,
                 "name": "Temitope Agbaje",
                 "imgUrl": "https://imgur.com/TOQP7kh.png",
-                "email": "agbajeinioluwa@gmail.com"
+                "email": "agbajeinioluwa@gmail.com",
+                "rank": "Backend Developer"
             },
             {
                 "id": 2,
                 "name": "Abiona Quadrat Adewemimo",
                 "imgUrl": "https://imgur.com/aStwx7h.png",
-                "email": "quadratwemimo@gmail.com"
+                "email": "quadratwemimo@gmail.com",
+                "rank": "Biochemist/Frontend Developer"
             }
     ]
 }
