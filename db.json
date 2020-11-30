@@ -1,16 +1,16 @@
-[
-    {
-"id": 2,
-"name": "Edike Uche",
-"imgUrl": "https://imgur.com/LHlVJmW.png",
-"email": "ucesty@gmail.com"
-
-},
 {
-"id": 2,
-"name": "Green Oluwakemi",
-"imgUrl": "https://imgur.com/RHbbbsw.png",
-"email": "greenreina01@gmail.com"
-
+    "persons":[
+            {
+                "id": 2,
+                "name": "Edike Uche",
+                "imgUrl": "https://imgur.com/LHlVJmW.png",
+                "email": "ucesty@gmail.com"
+            },
+            {
+                "id": 2,
+                "name": "Green Oluwakemi",
+                "imgUrl": "https://imgur.com/RHbbbsw.png",
+                "email": "greenreina01@gmail.com"
+            }
+    ]
 }
-]
